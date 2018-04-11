@@ -1,0 +1,121 @@
+
+.background{
+    position: absolute;
+    left: 0%;
+    right: -12.03%;
+    top: 0%;
+    bottom: -79.6%;
+    
+    background: #C4C4C4;
+    }
+    .frame{
+        position: absolute;
+    width: 570px;
+    height: 385px;
+    left: 27px;
+    top: 26px;
+    
+    background: #FFFFFF;
+    }
+    .hng_bg{
+        position: absolute;
+    width: 370px;
+    height: 51px;
+    left: 98px;
+    top: 17px;
+    
+    background: #F2F2F2;
+    
+    }
+    
+    .hng{
+        position: absolute;
+    left: 24%;
+    right: 13.47%;
+    top: -15px;
+    bottom: 82.48%;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    line-height: normal;
+    font-size: 38px;
+    text-decoration-line: underline;
+    
+    color: #2F80ED;
+    }
+    .stage_bg{
+    position: absolute;
+    width: 117px;
+    height: 60px;
+    left: 220px;
+    top: 140px;
+    
+    background: #F2F2F2;
+    transform: rotate(37.53deg);
+    }
+    .stage{
+    position: absolute;
+    left: 42.53%;
+    right: 37.93%;
+    top: 37.16%;
+    bottom: 53.76%;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    line-height: normal;
+    font-size: 25px;
+    
+    color: #828282;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    transform: matrix(1, 0.63, 0.02, 0.88, 0, 0);
+    }
+    .date{
+    position: absolute;
+    left: 28.84%;
+    right: 25.3%;
+    top: 75.12%;
+    bottom: 11.83%;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    line-height: normal;
+    font-size: 16px;
+    text-align: center;
+    
+    color: #2D9CDB;
+    }
+    .date_bg{
+    position: absolute;
+    left: 26.24%;
+    right: 22.69%;
+    top: 73.65%;
+    bottom: 10.14%;
+    
+    background: #F2F2F2;
+    }
+    .dbeloveth{
+    position: absolute;
+    left: 87.05%;
+    right: -0.16%;
+    top: 93%;
+    bottom: 1.07%;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 12px;
+    text-align: center;
+    color: rgb(211, 102, 102);
+    }
+    
+    
+    
+    
+    
+    
+    
+    
