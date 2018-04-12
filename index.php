@@ -7,11 +7,10 @@
 <body>
 <div class="background">
 <div class = "frame">
-  <div class = "hng_bg"> </div>
-  <p class="hng">HNG Internship 4</p>
+<div class = "hng_bg"> </div>
+<p class="hng">HNG Internship 4</p>
 <div class="stage_bg"> </div>
 <p class= "stage">stage1</p>
-
 <div class= "date_bg"></div>   
 <p class="date">
     <?php
@@ -20,13 +19,10 @@
           echo "Today is " . date("l-d-m-Y") . "<br>";
            "<br>";
           echo "Current time is " . date("h:i:sa"); 
-?></p>
-
+    ?></p>
 
 <p class="dbeloveth">@dbeloveth</p>
 </div>
-
 </div>
-
 </body>
 </html>
